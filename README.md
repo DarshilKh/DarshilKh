@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Darshil</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Spring+Boot+%7C+Next.js;Building+Real-World+Projects" />
+</p>
+
+<p align="center">
 BCA Student • Full-Stack Developer • Building real-world web applications
 </p>
 
@@ -9,13 +13,28 @@ BCA Student • Full-Stack Developer • Building real-world web applications
 ## 🚀 About Me
 - 💻 Building scalable frontend, backend, and full-stack applications  
 - ⚡ Focused on clean code, performance, and real-world problem solving  
-- 🌱 Currently learning system design and real-time systems (WebSockets)  
+- 🌱 Learning system design and real-time systems (WebSockets)  
 - 🎯 Seeking Frontend / Backend / Full-Stack Internship opportunities  
 
 ---
 
 ## 🌐 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/darshil-khandelwal  
+
+<p align="center">
+  <a href="https://linkedin.com/in/darshil-khandelwal">
+    <img src="https://img.shields.io/badge/LinkedIn-Darshil-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:darshil.khandelwal92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 🌐 Portfolio & Resume
+
+- 🌍 Portfolio: https://your-portfolio-link.vercel.app  
+- 📄 Resume: https://your-resume-link  
 - 📧 Email: darshil.khandelwal92@gmail.com  
 
 ---
@@ -26,9 +45,11 @@ BCA Student • Full-Stack Developer • Building real-world web applications
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -52,22 +73,16 @@ BCA Student • Full-Stack Developer • Building real-world web applications
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 AI Email Reply Generator  
-Full-stack AI-powered email response system with tone-based generation using React and Spring Boot.
-
-### 🔹 Scribble.io Clone  
-Real-time multiplayer drawing game using WebSockets for synchronized gameplay.
-
-### 🔹 Therapy Website  
-SEO-optimized responsive web app built with Next.js and Tailwind CSS.
-
-### 🔹 Smart Task Manager  
-Java-based task management system with layered architecture and priority-based organization.
+- 🔹 **AI Email Reply Generator** → React + Spring Boot + AI  
+- 🔹 **Scribble.io Clone** → Real-time multiplayer (WebSockets)  
+- 🔹 **Therapy Website** → Next.js + Tailwind (SEO optimized)  
+- 🔹 **Smart Task Manager** → Java backend with layered architecture  
 
 ---
 
