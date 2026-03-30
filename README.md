@@ -31,14 +31,6 @@ BCA Student • Full-Stack Developer • Building real-world web applications
 
 ---
 
-## 🌐 Portfolio & Resume
-
-- 🌍 Portfolio: https://your-portfolio-link.vercel.app  
-- 📄 Resume: https://your-resume-link  
-- 📧 Email: darshil.khandelwal92@gmail.com  
-
----
-
 ## 🛠️ Skills & Technologies
 
 ### 💻 Frontend
