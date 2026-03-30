@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-<br><br>🚀 I'm a BCA student passionate about building scalable frontend, backend, and full-stack web applications.<br><br>🔭 Currently working on real-world full-stack projects using React, Next.js, and Spring Boot  <br>🤝 Looking to collaborate on web development and AI-based projects  <br>🛠 Looking for help with advanced backend systems and scalable architectures  <br>🌱 Currently learning system design and real-time applications (WebSockets)  <br>💬 Ask me about React, Java, Spring Boot, and full-stack development  <br>⚡ Fun fact: I enjoy turning ideas into real, deployable products
+🚀 I'm a BCA student passionate about building scalable frontend, backend, and full-stack web applications.<br><br>🔭 Currently working on real-world full-stack projects using React, Next.js, and Spring Boot  <br>🤝 Looking to collaborate on web development and AI-based projects  <br>🛠 Looking for help with advanced backend systems and scalable architectures  <br>🌱 Currently learning system design and real-time applications (WebSockets)  <br>💬 Ask me about React, Java, Spring Boot, and full-stack development  <br>⚡ Fun fact: I enjoy turning ideas into real, deployable products
 
 
 # 🌐 Socials:
