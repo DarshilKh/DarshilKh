@@ -1,18 +1,62 @@
-# 👨‍💻 About Me:
-🚀 I'm a BCA student passionate about building scalable frontend, backend, and full-stack web applications.<br><br>🔭 Currently working on real-world full-stack projects using React, Next.js, and Spring Boot  <br>🤝 Looking to collaborate on web development and AI-based projects  <br>🛠 Looking for help with advanced backend systems and scalable architectures  <br>🌱 Currently learning system design and real-time applications (WebSockets)  <br>💬 Ask me about React, Java, Spring Boot, and full-stack development  <br>⚡ Fun fact: I enjoy turning ideas into real, deployable products
+<h1 align="center">Hi 👋, I'm Darshil</h1>
 
+<p align="center">
+BCA Student • Full-Stack Developer • Building real-world web applications
+</p>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshil-khandelwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshil.khandelwal92@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DarshilKh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+## 🚀 About Me
+- 💻 Building scalable frontend, backend, and full-stack applications  
+- ⚡ Focused on clean code, performance, and real-world problem solving  
+- 🌱 Currently learning system design and real-time systems (WebSockets)  
+- 🎯 Seeking Frontend / Backend / Full-Stack Internship opportunities  
+
+---
+
+## 🌐 Connect With Me
+- 🔗 LinkedIn: https://linkedin.com/in/darshil-khandelwal  
+- 📧 Email: darshil.khandelwal92@gmail.com  
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Frontend
+HTML • CSS • JavaScript • React • Next.js • Tailwind CSS  
+
+### ⚙️ Backend
+Java • Spring Boot • Servlets • REST APIs • WebSockets  
+
+### 🗄️ Databases
+MySQL • MongoDB  
+
+### 🧰 Tools
+Git • GitHub • Postman • Netlify • Vercel  
+
+---
+
+## 🚀 Projects
+
+### 🔹 AI Email Reply Generator
+Full-stack AI-powered email response system with tone-based generation using React and Spring Boot.
+
+### 🔹 Scribble.io Clone
+Real-time multiplayer drawing game using WebSockets for synchronized gameplay.
+
+### 🔹 Therapy Website
+SEO-optimized responsive web app built with Next.js and Tailwind CSS.
+
+### 🔹 Smart Task Manager
+Java-based task management system with layered architecture and priority-based organization.
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DarshilKh&theme=radical&hide_border=false)
 
 ![](https://streak-stats.demolab.com?user=DarshilKh&theme=radical&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilKh&theme=radical&hide_border=false&layout=compact)
+---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ Feel free to explore my repositories and connect with me!
