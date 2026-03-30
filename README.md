@@ -14,10 +14,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilKh&theme=radical&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DarshilKh&theme=radical&margin-w=8)
-
----
-[![](https://visitcount.itsvg.in/api?id=DarshilKh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
