@@ -1,7 +1,7 @@
-## 👨‍💻 About Me<br><br>🚀 I'm a BCA student passionate about building scalable frontend, backend, and full-stack web applications.<br><br>🔭 Currently working on real-world full-stack projects using React, Next.js, and Spring Boot  <br>🤝 Looking to collaborate on web development and AI-based projects  <br>🛠 Looking for help with advanced backend systems and scalable architectures  <br>🌱 Currently learning system design and real-time applications (WebSockets)  <br>💬 Ask me about React, Java, Spring Boot, and full-stack development  <br>⚡ Fun fact: I enjoy turning ideas into real, deployable products
+# 👨‍💻 About Me<br><br>🚀 I'm a BCA student passionate about building scalable frontend, backend, and full-stack web applications.<br><br>🔭 Currently working on real-world full-stack projects using React, Next.js, and Spring Boot  <br>🤝 Looking to collaborate on web development and AI-based projects  <br>🛠 Looking for help with advanced backend systems and scalable architectures  <br>🌱 Currently learning system design and real-time applications (WebSockets)  <br>💬 Ask me about React, Java, Spring Boot, and full-stack development  <br>⚡ Fun fact: I enjoy turning ideas into real, deployable products
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/darshil-khandelwal-59962b335) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshil.khandelwal92@gmail.com) 
 
 # 💻 Tech Stack:
