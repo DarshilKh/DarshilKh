@@ -27,7 +27,85 @@ React • Node.js • Spring Boot • System Design
 
 ## ⚡ About Me
 
-```diff
-+ Full-Stack Developer focused on building production-ready applications
-+ Strong in React ecosystems and scalable backend systems (Spring Boot / Node.js)
-+ Hands-on experience with real-time systems, REST APIs, and system design fundamentals
++ Full-Stack Developer focused on building production-ready applications  
++ Strong in React ecosystems and scalable backend systems (Spring Boot / Node.js)  
++ Hands-on experience with real-time systems, REST APIs, and system design  
+
+- 🎓 BCA Student (IP University Delhi)  
+- 🚀 Built multiple full-stack and real-time applications  
+- 🧠 Currently learning: System Design · Backend Scaling  
+- 🎯 Target: High-impact SDE roles  
+
+---
+
+## 🚀 Featured Projects
+
+🎨 Skribbl Clone → https://skribblclone.netlify.app  
+Real-time multiplayer drawing game using WebSockets  
+
+🤖 AI Email Generator → https://email-writer-front.netlify.app  
+AI-powered context-aware email reply system  
+
+🧠 Prashikshan Platform → https://prashikshan-frontend.netlify.app  
+Training & collaboration frontend system  
+
+✅ TaskFlow Manager → https://taskflow0021.netlify.app  
+Full-stack task manager with clean architecture  
+
+---
+
+## 🛠️ Tech Stack
+
+Programming: C · Java · Python · PHP  
+
+Frontend: React · Next.js · TypeScript · Tailwind CSS  
+
+Backend: Node.js · Express · Spring Boot · REST APIs · WebSockets  
+
+Database & Tools: MySQL · MongoDB · Git · Postman · Vercel  
+
+---
+
+## 📈 What I Bring
+
+- Strong fundamentals: DSA · DBMS · OOP  
+- Ability to design and build scalable systems  
+- Real-world project experience  
+- Clean, production-oriented code  
+
+---
+
+## 🏗️ Engineering Mindset
+
+Client (React / Next.js)  
+        ↓  
+API Layer (Node.js / Spring Boot)  
+        ↓  
+Service Layer  
+        ↓  
+Database  
+
++ Real-time layer using WebSockets  
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=DarshilKh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilKh&layout=compact&theme=github_dark&hide_border=true" />  
+<img src="https://streak-stats.demolab.com?user=DarshilKh&theme=github-dark-blue&hide_border=true" />  
+
+---
+
+## 🤝 Let's Connect
+
+Open to internships, collaborations, and impactful projects.  
+If you're building something interesting — let's connect.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=80&section=footer" />
+
+</div>
